@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.85474de8.chunk.css",
-    "main.js": "/static/js/main.abec1e97.chunk.js",
-    "main.js.map": "/static/js/main.abec1e97.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.da9ea447.js",
-    "runtime-main.js.map": "/static/js/runtime-main.da9ea447.js.map",
-    "static/js/2.3895b88d.chunk.js": "/static/js/2.3895b88d.chunk.js",
-    "static/js/2.3895b88d.chunk.js.map": "/static/js/2.3895b88d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9d00612c70aac4660590192ee0354a08.js": "/precache-manifest.9d00612c70aac4660590192ee0354a08.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.85474de8.chunk.css.map": "/static/css/main.85474de8.chunk.css.map",
-    "static/js/2.3895b88d.chunk.js.LICENSE.txt": "/static/js/2.3895b88d.chunk.js.LICENSE.txt",
-    "static/media/header-logo.svg": "/static/media/header-logo.5fbb0151.svg"
+    "main.css": "/beer-cost-web/static/css/main.85474de8.chunk.css",
+    "main.js": "/beer-cost-web/static/js/main.abec1e97.chunk.js",
+    "main.js.map": "/beer-cost-web/static/js/main.abec1e97.chunk.js.map",
+    "runtime-main.js": "/beer-cost-web/static/js/runtime-main.08c8e769.js",
+    "runtime-main.js.map": "/beer-cost-web/static/js/runtime-main.08c8e769.js.map",
+    "static/js/2.3895b88d.chunk.js": "/beer-cost-web/static/js/2.3895b88d.chunk.js",
+    "static/js/2.3895b88d.chunk.js.map": "/beer-cost-web/static/js/2.3895b88d.chunk.js.map",
+    "index.html": "/beer-cost-web/index.html",
+    "precache-manifest.db068c63ed48fb7a497745282fb51711.js": "/beer-cost-web/precache-manifest.db068c63ed48fb7a497745282fb51711.js",
+    "service-worker.js": "/beer-cost-web/service-worker.js",
+    "static/css/main.85474de8.chunk.css.map": "/beer-cost-web/static/css/main.85474de8.chunk.css.map",
+    "static/js/2.3895b88d.chunk.js.LICENSE.txt": "/beer-cost-web/static/js/2.3895b88d.chunk.js.LICENSE.txt",
+    "static/media/header-logo.svg": "/beer-cost-web/static/media/header-logo.5fbb0151.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.da9ea447.js",
+    "static/js/runtime-main.08c8e769.js",
     "static/js/2.3895b88d.chunk.js",
     "static/css/main.85474de8.chunk.css",
     "static/js/main.abec1e97.chunk.js"
